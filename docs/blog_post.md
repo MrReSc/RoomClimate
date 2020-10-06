@@ -5,7 +5,7 @@
 ## Motivation
 Der Winter nähert sich in grossen Schritten. Es wird kühler draussen und die Heizung nimmt wieder ihren Dienst auf. Seit nun fast sechs Monaten teilen wir unser Schlafzimmer mit unserem Sohn. Im Frühling und Sommer war das Raumklima nie ein Thema, da es immer warm war und man mit offenem Fenster schlafen konnte.
 
-Wenn aber drei Personen in einem kleinen Schlafzimmer schlafen und die Heizung auch noch läuft, ist das morgentliche Erwachen meist mit Husten und trockenem Mund verbunden, vor allem bei unserem kleinen Jungen.
+Wenn aber drei Personen in einem kleinen Schlafzimmer schlafen und die Heizung auch noch läuft, ist das morgendliche Erwachen meist mit Husten und trockenem Mund verbunden, vor allem bei unserem kleinen Jungen.
 
 Als methodisch denkender Mensch, wollte ich zuerst einige Daten erheben, bevor ich am System willkürlich Änderungen vornehme.
 ## Hardware
