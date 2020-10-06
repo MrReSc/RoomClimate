@@ -1,0 +1,12 @@
+version: '2'
+services:
+  influxdb:
+    image: quay.io/influxdb/influxdb:2.0.0-rc
+    container_name: RoomClimateInfluxDB2
+    restart: always
+    ports:
+      - '9086:8086'
+    volumes:
+      - ./data:/root/.influxdbv2
+    command:
+      --reporting-disabled
