@@ -9,7 +9,7 @@ Wenn aber drei Personen in einem kleinen Schlafzimmer schlafen und die Heizung a
 
 Als methodisch denkender Mensch, wollte ich zuerst einige Daten erheben, bevor ich am System willkürlich Änderungen vornehme.
 ## Hardware
-Als Basis für mein Vorhaben dient ein ESP32 (LOLIN32 V1.0.0 ESP32 Board 4 MB FLASH). Dieser hat schon Wi-Fi an Board, kann I²C und hat einige GPIO. Ich möchte gerne die Temperatur, Luftfeuchtigkeit und die allgemeine Luftqualität messen. Dazu habe ich folgende Sensoren verwendet:
+Als Basis für mein Vorhaben dient ein ESP32 ([LOLIN32](https://docs.platformio.org/en/latest/boards/espressif32/lolin32.html) V1.0.0 ESP32 Board 4 MB FLASH). Dieser hat schon Wi-Fi an Board, kann I²C und hat einige GPIO. Ich möchte gerne die Temperatur, Luftfeuchtigkeit und die allgemeine Luftqualität messen. Dazu habe ich folgende Sensoren verwendet:
 
 - Temperatur und Luftfeuchtigkeit [DHT22](https://learn.adafruit.com/dht)
 - Luftqualität [CCS811](https://learn.sparkfun.com/tutorials/ccs811-air-quality-breakout-hookup-guide) ([eCO2](https://en.wikipedia.org/wiki/Carbon_dioxide_sensor#Estimated_CO2_sensor) und [TVOC](https://en.wikipedia.org/wiki/Volatile_organic_compound))
